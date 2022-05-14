@@ -21,7 +21,11 @@ If you used network to copy the files you'll have to restart EmulationStation fo
 - In level selection menu "Start" button starts the level.
 - To open Open Supaplex menu while playing - use "Start".
 - "Select" also opens menu, but when in game it also sends "ESC" button, which destroys Murphy (main game character).
-- To create a new player, move mouse over "new player" press "A", press "Start + D-Pad Left" player name "Ppayer" should be automaticcaly entered. If you want to use another name use "Start + D-Pad Down/Up" to select characters and "Start + D-Pad Right/Left" to enter or delete.
+- To create a new player, move mouse over "new player" press "A", press "Start + D-Pad Left" player name "murphy" should be automaticcaly entered. 
+- If you want to use another name use "Start + D-Pad Down" to activate interactive mode, then use and "D-Pad Up/Down" to select character and "D-Pad Right/Left" to enter new character/delete character. When you are finished press "A" or "Start" to confirm, use "Select" to cancel.
+
+More about interactive mode please look at [gptokeyb GitHub readme](https://github.com/romadu/gptokeyb#preset-text-input).
+
 - To confirm name - move mouse over "OK" icon and press "A"
 - This game has multiple level sets. In level selection menu you can use "L1/R1" to change the set.
 - To eat board or infotron without moving - use "X + D-Pad/Left-Stick direction"
